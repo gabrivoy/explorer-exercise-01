@@ -2,6 +2,8 @@
 
 This repository contains the codes that were used to solve the first exercise on Rocketseat's Explorer (FullStack) developer track. More information on Explorer's course can be found [here](https://www.rocketseat.com.br/formacao/fullstack).
 
+This exercise refers to the module 01 - Introduction to HTML and CSS and is the first mandatory exercise.
+
 ## The challenge
 
 This is an introductory challenge to the course. It consists in refactoring a broken code that was given for a page. The code was a simple `HTML` and `CSS` page following a given figma layout. The image below shows how the layout should look before and after the refactoring:
